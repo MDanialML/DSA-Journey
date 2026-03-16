@@ -11,4 +11,4 @@ No shortcuts. No excuses.
 | 01  | Big O Notation | Find Maximum | ✅ |
 | 02  | Arrays | Square & Sort | ✅ |
 | 03  | Strings | Palindrome Check | ✅ |
-| 04  | Linked Lists | TBD | 🔄 |
+| 04  | Linked Lists | Build LinkedList from scratch | ✅ |
