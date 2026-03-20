@@ -12,3 +12,4 @@ No shortcuts. No excuses.
 | 02  | Arrays | Square & Sort | ✅ |
 | 03  | Strings | Palindrome Check | ✅ |
 | 04  | Linked Lists | Build LinkedList from scratch | ✅ |
+| 04R | Stacks (Repeat) | Balanced Bracket Validation | ✅ |
