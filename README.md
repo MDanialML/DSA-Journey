@@ -13,3 +13,4 @@ No shortcuts. No excuses.
 | 03  | Strings | Palindrome Check | ✅ |
 | 04  | Linked Lists | Build LinkedList from scratch | ✅ |
 | 04R | Stacks (Repeat) | Balanced Bracket Validation | ✅ |
+| 06  | Queues | Queue from scratch using LinkedList | ✅ |
