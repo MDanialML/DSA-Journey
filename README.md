@@ -14,3 +14,4 @@ No shortcuts. No excuses.
 | 04  | Linked Lists | Build LinkedList from scratch | ✅ |
 | 04R | Stacks (Repeat) | Balanced Bracket Validation | ✅ |
 | 06  | Queues | Queue from scratch using LinkedList | ✅ |
+| 07  | Recursion | Factorial — call stack trace included | ✅ |
