@@ -15,3 +15,4 @@ No shortcuts. No excuses.
 | 04R | Stacks (Repeat) | Balanced Bracket Validation | ✅ |
 | 06  | Queues | Queue from scratch using LinkedList | ✅ |
 | 07  | Recursion | Factorial — call stack trace included | ✅ |
+| 08  | Backtracking | Permutation - call stack trace included | ✅ |
