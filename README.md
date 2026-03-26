@@ -16,3 +16,4 @@ No shortcuts. No excuses.
 | 06  | Queues | Queue from scratch using LinkedList | ✅ |
 | 07  | Recursion | Factorial — call stack trace included | ✅ |
 | 08  | Backtracking | Permutation - call stack trace included | ✅ |
+| 09  | Binary Search | Iterative + Recursive implementations | ✅ |
