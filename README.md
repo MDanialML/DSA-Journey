@@ -17,3 +17,4 @@ No shortcuts. No excuses.
 | 07  | Recursion | Factorial — call stack trace included | ✅ |
 | 08  | Backtracking | Permutation - call stack trace included | ✅ |
 | 09  | Binary Search | Iterative + Recursive implementations | ✅ |
+| 10  | Merge Sort | Merge Sort from scratch — three pointer merge | ✅ |
