@@ -18,3 +18,4 @@ No shortcuts. No excuses.
 | 08  | Backtracking | Permutation - call stack trace included | ✅ |
 | 09  | Binary Search | Iterative + Recursive implementations | ✅ |
 | 10  | Merge Sort | Merge Sort from scratch — three pointer merge | ✅ |
+| 11  | Hash Tables | First Non-Repeating Element using HashMap | ✅ |
