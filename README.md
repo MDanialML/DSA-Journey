@@ -19,3 +19,4 @@ No shortcuts. No excuses.
 | 09  | Binary Search | Iterative + Recursive implementations | ✅ |
 | 10  | Merge Sort | Merge Sort from scratch — three pointer merge | ✅ |
 | 11  | Hash Tables | First Non-Repeating Element using HashMap | ✅ |
+| 12  | Binary Search Tree | Create, insert and search in BST | ✅ |
