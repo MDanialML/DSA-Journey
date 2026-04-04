@@ -21,3 +21,4 @@ No shortcuts. No excuses.
 | 11  | Hash Tables | First Non-Repeating Element using HashMap | ✅ |
 | 12  | Binary Search Tree | Create, insert and search in BST | ✅ |
 | 13  | Binary Search Tree | LevelOrder traversl, Tree Height, Check Balanced| ✅ |
+| 14  | Dynamic Programming | Climbing Stairs — Naive, Memoization, Tabulation | ✅ |
