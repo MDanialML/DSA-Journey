@@ -24,3 +24,4 @@ No shortcuts. No excuses.
 | 14  | Dynamic Programming | Climbing Stairs — Naive, Memoization, Tabulation | ✅ |
 | 15  | Graphs | BFS, DFS, Cycle Detection — Adjacency List | ✅ |
 | 16  | Graphs | Dijeksrta algorithm- find shortest path between nodes | ✅ |
+| 17  | Advanced DP | 0/1 Knapsack + LCS — 2D tabulation | ✅ |
