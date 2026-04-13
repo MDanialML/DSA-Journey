@@ -25,3 +25,4 @@ No shortcuts. No excuses.
 | 15  | Graphs | BFS, DFS, Cycle Detection — Adjacency List | ✅ |
 | 16  | Graphs | Dijeksrta algorithm- find shortest path between nodes | ✅ |
 | 17  | Advanced DP | 0/1 Knapsack + LCS — 2D tabulation | ✅ |
+| 18  | Tries | insert, search, startsWith — children[26] | ✅ |
