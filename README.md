@@ -27,3 +27,4 @@ No shortcuts. No excuses.
 | 17  | Advanced DP | 0/1 Knapsack + LCS — 2D tabulation | ✅ |
 | 18  | Tries | insert, search, startsWith — children[26] | ✅ |
 | 19  | Heaps & Priority Queues | MinHeap from scratch — bubbleUp, bubbleDown | ✅ |
+| 20  | System Design | DSA → Production mapping, ShopFlow architecture | ✅ |
