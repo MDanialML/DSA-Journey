@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 class MinHeap{
-    public static ArrayList<Integer> minHeap = new ArrayList<>();
+    public ArrayList<Integer> minHeap = new ArrayList<>();
         public void insert(int val){
         minHeap.add(val);
         int index = minHeap.size()-1;
@@ -12,6 +12,9 @@ class MinHeap{
     }
 
     int peek() {
+        if(minHeap.size() == 0){
+            throw new RuntimeException("Heap is empty!");
+        }
         return minHeap.get(0);
      }
 

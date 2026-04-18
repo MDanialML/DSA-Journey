@@ -28,3 +28,4 @@ No shortcuts. No excuses.
 | 18  | Tries | insert, search, startsWith — children[26] | ✅ |
 | 19  | Heaps & Priority Queues | MinHeap from scratch — bubbleUp, bubbleDown | ✅ |
 | 20  | System Design | DSA → Production mapping, ShopFlow architecture | ✅ |
+| 21  | Sliding Window | Max Sum Subarray size k — fixed window | ✅ |
