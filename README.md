@@ -29,3 +29,5 @@ No shortcuts. No excuses.
 | 19  | Heaps & Priority Queues | MinHeap from scratch — bubbleUp, bubbleDown | ✅ |
 | 20  | System Design | DSA → Production mapping, ShopFlow architecture | ✅ |
 | 21  | Sliding Window | Max Sum Subarray size k — fixed window | ✅ |
+| 22  | Two Pointers | Unique Pairs — converging pointers, duplicate handling | ✅ |
+| 23  | Fast & Slow Pointers | Cycle Detection + Find Middle — Floyd's Algorithm | ✅ |
