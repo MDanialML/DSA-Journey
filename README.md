@@ -31,3 +31,5 @@ No shortcuts. No excuses.
 | 21  | Sliding Window | Max Sum Subarray size k — fixed window | ✅ |
 | 22  | Two Pointers | Unique Pairs — converging pointers, duplicate handling | ✅ |
 | 23  | Fast & Slow Pointers | Cycle Detection + Find Middle — Floyd's Algorithm | ✅ |
+| 24  | Top K Elements | K Largest + Kth Largest — Min-Heap PriorityQueue | ✅ |
+

@@ -16,14 +16,8 @@ public class Day24P1{
         return pq;
     }
 
-    public static int findKthLargest(int[] arr, int k){
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int num : arr){
-            pq.offer(num);
-            if(pq.size() > k){
-                pq.poll();
-            }
-        }
+    public static int findKthLargest(PriorityQueue<Integer> pq){
+        
         return pq.peek();
     }
 
@@ -38,7 +32,7 @@ public class Day24P1{
         System.out.println(num);
        }
 
-       int num = findKthLargest(arr, K);
+       int num = findKthLargest(pq);
        System.out.println("Kth Largest number: " + num);
 
     }
