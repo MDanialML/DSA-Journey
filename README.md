@@ -32,4 +32,4 @@ No shortcuts. No excuses.
 | 22  | Two Pointers | Unique Pairs — converging pointers, duplicate handling | ✅ |
 | 23  | Fast & Slow Pointers | Cycle Detection + Find Middle — Floyd's Algorithm | ✅ |
 | 24  | Top K Elements | K Largest + Kth Largest — Min-Heap PriorityQueue | ✅ |
-
+| 25  | Merge Intervals | Merge overlapping intervals — sort + single pass | ✅ |
