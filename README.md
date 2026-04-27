@@ -33,3 +33,5 @@ No shortcuts. No excuses.
 | 23  | Fast & Slow Pointers | Cycle Detection + Find Middle — Floyd's Algorithm | ✅ |
 | 24  | Top K Elements | K Largest + Kth Largest — Min-Heap PriorityQueue | ✅ |
 | 25  | Merge Intervals | Merge overlapping intervals — sort + single pass | ✅ |
+| 26  | Tree DFS Patterns | PathSum, Diameter, LCA — DFS template | ✅ |
+
