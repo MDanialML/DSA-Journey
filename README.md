@@ -34,4 +34,4 @@ No shortcuts. No excuses.
 | 24  | Top K Elements | K Largest + Kth Largest — Min-Heap PriorityQueue | ✅ |
 | 25  | Merge Intervals | Merge overlapping intervals — sort + single pass | ✅ |
 | 26  | Tree DFS Patterns | PathSum, Diameter, LCA — DFS template | ✅ |
-
+| 27  | Disjoint Set Union | Topological sort Kahns Algo, DSU find and union path compression, rank | ✅ |
