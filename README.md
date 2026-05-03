@@ -36,4 +36,4 @@ No shortcuts. No excuses.
 | 26  | Tree DFS Patterns | PathSum, Diameter, LCA — DFS template | ✅ |
 | 27  | Disjoint Set Union | Topological sort Kahns Algo, DSU find and union path compression, rank | ✅ |
 | 28  | Prefix Sum | Range queries O(1) — build O(n) once | ✅ |
-
+| 29  | Monotonic Stack | Next Greater Element — decreasing stack | ✅ |
