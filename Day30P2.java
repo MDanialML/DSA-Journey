@@ -8,12 +8,9 @@ public class Day30P2{
         Map<Integer, Integer> prefixSums = new HashMap<>();
         int result = 0;
         int currSum = 0;
+        prefixSums.put(0, 1);
         for(int i =0; i < arr.length; i++){
             currSum += arr[i];
-
-            if(currSum == k){
-                result++;
-            }
 
             if(prefixSums.containsKey(currSum - k)){
                 result += prefixSums.get(currSum - k);
