@@ -38,3 +38,4 @@ No shortcuts. No excuses.
 | 28  | Prefix Sum | Range queries O(1) — build O(n) once | ✅ |
 | 29  | Monotonic Stack | Next Greater Element — decreasing stack | ✅ |
 | 30  | Mixed Patterns | Longest Substring + Subarray Sum K + Remove Duplicates | ✅ |
+| 31  | Consolidation Day31 - TwoSum O(n) HashMap + BuyStock O(n) Greedy | ✅ |
