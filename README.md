@@ -39,3 +39,5 @@ No shortcuts. No excuses.
 | 29  | Monotonic Stack | Next Greater Element — decreasing stack | ✅ |
 | 30  | Mixed Patterns | Longest Substring + Subarray Sum K + Remove Duplicates | ✅ |
 | 31  | Consolidation Day31 - TwoSum O(n) HashMap + BuyStock O(n) Greedy | ✅ |
+| C32 | Consolidation | Max Depth Binary Tree + Number of Islands | ✅ |
+ | C32| Consolidation Day32 - ClimbingStairs DP memoization O(n) time O(n) space
