@@ -41,3 +41,4 @@ No shortcuts. No excuses.
 | 31  | Consolidation Day31 - TwoSum O(n) HashMap + BuyStock O(n) Greedy | ✅ |
 | C32 | Consolidation | Max Depth Binary Tree + Number of Islands | ✅ |
  | C32| Consolidation Day32 - ClimbingStairs DP memoization O(n) time O(n) space
+ Phase4 Day37 - NumberOf1Bits 100% + PowerOfTwo + CountingBits - Brian Kernighan n&(n-1) | ✅ |
